@@ -1,4 +1,4 @@
-from fabrictk import system_colors
+from . import system_colors
 
 import copy
 

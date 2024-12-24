@@ -1,4 +1,4 @@
-from fabrictk import configure
+from . import configure
 
 import tkinter as tk
 

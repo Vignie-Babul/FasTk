@@ -1,4 +1,4 @@
-from fabrictk import configure, button
+from . import configure, button
 
 import ctypes
 import tkinter as tk
